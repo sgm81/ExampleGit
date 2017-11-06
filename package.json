@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "8.45.20",
-    "jade": "*"
+    "jade": "1.0.1"
   }
 }
